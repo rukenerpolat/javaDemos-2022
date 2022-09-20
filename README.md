@@ -8,4 +8,6 @@ Ruken ERPOLAT </em></b>
 
 <br>
 
-<img src="https://media.giphy.com/media/2AtmFIeP1bQGI/giphy.gif"/>
+<!-- <img src="https://media.giphy.com/media/2AtmFIeP1bQGI/giphy.gif"/> -->
+
+<img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif"/>
